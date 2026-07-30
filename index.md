@@ -26,7 +26,8 @@ built, and what went wrong in real incidents.
 Meetings are free and anyone can attend. You do not need to be an OWASP member.
 You do not need a security background either. If you write code and want to know
 how it would hold up against an attacker, you will get something out of these
-meetings.
+meetings. If you do not write code, you are still welcome, and you will still
+learn a lot.
 
 ## Where the chapter stands (July 2026)
 
