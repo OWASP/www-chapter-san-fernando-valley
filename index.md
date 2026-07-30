@@ -17,11 +17,14 @@ meetup-group: OWASP-San-Fernando-Valley-Chapter
 ## Welcome
 
 OWASP San Fernando Valley is the local OWASP chapter for the San Fernando Valley
-and the surrounding parts of greater Los Angeles. The chapter is for developers,
+and the surrounding parts of greater Los Angeles. We are here for developers,
 security engineers, QA and test professionals, students, and anyone else who
-builds or runs software that attackers will target. Meetings cover practical
-application security: OWASP projects, original research, tools people have
-built, and what went wrong in real incidents.
+builds or runs software. Meetings cover practical application security: OWASP
+projects, original research, tools people have built, and what went wrong in
+real incidents. Topics run across web and API security, cloud, and AI.
+
+You may see this chapter written as OWASP SFV or OWASP San Fernando Valley. Both
+mean the same group.
 
 Meetings are free and anyone can attend. You do not need to be an OWASP member.
 You do not need a security background either. If you write code and want to know
@@ -29,42 +32,43 @@ how it would hold up against an attacker, you will get something out of these
 meetings. If you do not write code, you are still welcome, and you will still
 learn a lot.
 
+We work closely with our sister chapter,
+[OWASP Los Angeles](https://owasp.org/www-chapter-los-angeles/). If you are in
+the area, their events are worth following too.
+
 ## Where the chapter stands (July 2026)
 
 The chapter was dormant for several years. Three of us are restarting it. Here
-is what is in place and what is not.
+is where things stand today.
 
-- **Leaders.** The sidebar lists the three chapter leaders. We will add email
+- **Leaders.** All three of us are listed in the sidebar. We will add email
   links once the OWASP Foundation issues the addresses.
-- **Meeting schedule.** We have not set one. We will post the first meeting date
-  here as soon as we fix it.
-- **Venue.** We have not secured a venue. The Valley is spread out, so we may
-  rotate between several host sites instead of meeting in one place.
+- **Meeting schedule.** We have not set one yet. We will post the first meeting
+  date here as soon as we have it.
+- **Venue.** We do not have a venue yet. The Valley is spread out, so we may
+  rotate between a few host sites instead of meeting in one place.
 - **Meetup group.** The OWASP Foundation is still setting up our Meetup group.
   Until it goes live, check this page for chapter news.
 
-We will update this section as each item is settled.
-
 ## Getting involved
 
-The chapter needs three things, and all three are open.
+We need help with three things.
 
 **Speakers.** Talk about an OWASP project, your own research, a tool you built,
 or an incident and what you learned from it. First-time speakers are welcome,
-and the chapter leaders will help you plan and rehearse. To speak at this or any
-OWASP chapter, read the
-[speaker agreement](/www-policy/legal/speaker-agreement.html), then email one of
-the leaders in the sidebar with your topic.
+and we will help you plan and rehearse.
 
 **Venue hosts.** If your organization sits in or near the Valley and can lend a
-room on a weekday evening, that helps more than anything else on this list. We
-need seating for a few dozen people, a projector, and working network access.
-Hosting a meeting does not commit you to sponsoring one.
+room on a weekday evening, that helps us more than anything else here. We need
+seating for a few dozen people, a projector, and working network access. Hosting
+a meeting does not commit you to sponsoring one.
 
 **Sponsors.** Sponsors cover food and logistics. We list our sponsors on this
-page and thank them at the meetings they pay for. Sponsorship does not buy
-speaking time. The chapter leaders pick talks on technical merit, and we do not
-run vendor pitches.
+page and thank them at the meetings they pay for. If you want a speaking slot as
+part of a sponsorship, ask us. We will say yes to a technical talk our audience
+can use, and no to a sales pitch.
+
+Contact any of the chapter leaders in the sidebar.
 
 ## Participation
 
