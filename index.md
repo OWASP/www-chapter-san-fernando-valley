@@ -14,6 +14,8 @@ meetup-group: OWASP-San-Fernando-Valley-Chapter
 
 ---
 
+![The San Fernando Valley street grid lit at night, seen from the southern hills, with the OWASP San Fernando Valley chapter name](/assets/images/owasp-sfv-banner.jpg)
+
 ## Welcome
 
 OWASP San Fernando Valley is the local OWASP chapter for the San Fernando Valley
