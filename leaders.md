@@ -3,3 +3,4 @@
 * [Edward Bonver](mailto:edward.bonver@owasp.org)
 * Alice Ngo
 * Stuart Schwartz
+* Michael Felker
