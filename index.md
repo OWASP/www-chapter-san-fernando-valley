@@ -34,7 +34,7 @@ how it would hold up against an attacker, you will get something out of these
 meetings. If you do not write code, you are still welcome, and you will still
 learn a lot.
 
-We work closely with our sister chapter,
+We work closely with our sibling chapter,
 [OWASP Los Angeles](https://owasp.org/www-chapter-los-angeles/). If you are in
 the area, their events are worth following too.
 
