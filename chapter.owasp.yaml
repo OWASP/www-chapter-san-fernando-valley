@@ -1,0 +1,31 @@
+name: OWASP San Fernando Valley
+website: https://owasp.org/www-chapter-san-fernando-valley
+tags:
+  - SFV
+  - San Fernando Valley
+  - san-fernando-valley
+  - West Valley
+  - west-valley
+  - West Los Angeles
+  - west-los-angeles
+  - CA
+  - California
+leaders:
+  - name: Edward Bonver
+    email: edward.bonver@owasp.org
+  - name: Alice Ngo
+  - name: Stuart Schwartz
+  - name: Mikhael Felker
+location:
+  country: United States
+  country_code: US
+  region: California
+  city: Woodland Hills
+  postal_code: '91364'
+  timezone: America/Los_Angeles
+social_media:
+  - platform: linkedin
+    url: https://www.linkedin.com/company/owasp-sfv
+repositories:
+  - name: www-chapter-san-fernando-valley
+    url: https://github.com/OWASP/www-chapter-san-fernando-valley

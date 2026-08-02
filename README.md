@@ -41,6 +41,7 @@ Repository names follow a fixed pattern: `www-chapter-<name>` for chapters,
 | `index.md` | The chapter page body. Its front matter tells owasp.org our region, state, and postal code |
 | `leaders.md` | The leader list. The theme renders it into the right sidebar |
 | `info.md` | Sidebar content above the leaders. Chapter news and social links |
+| `chapter.owasp.yaml` | Chapter metadata for the [OWASP Nest](https://owasp.org/www-project-nest/) directory. Validate against the [Nest schema](https://github.com/OWASP/nest-schema) before changing it |
 | `_config.yml` | Jekyll config. Points at the shared OWASP theme |
 | `404.html` | Not-found page |
 | `Gemfile` | Ruby dependencies for building locally |
