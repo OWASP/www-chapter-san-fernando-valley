@@ -53,7 +53,7 @@ GitHub Pages rebuilds the site whenever a commit lands on `master`. Nobody runs 
 step or triggers a build by hand. Give it a few minutes after a push.
 
 The layout, header, footer, and sidebar come from the shared theme at
-[OWASP/www--site-theme](https://github.com/OWASP/www--site-theme), which `_config.yml`
+[OWASP/www-site-theme](https://github.com/OWASP/www-site-theme), which `_config.yml`
 selects through `remote_theme`. We do not control that theme. When OWASP changes it, every
 OWASP page changes at once.
 
