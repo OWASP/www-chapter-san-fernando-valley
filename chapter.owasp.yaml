@@ -30,6 +30,8 @@ community:
 social_media:
   - platform: linkedin
     url: https://www.linkedin.com/company/owasp-sfv
+  - platform: youtube
+    url: https://www.youtube.com/@OWASPSanFernandoValley
 repositories:
   - name: www-chapter-san-fernando-valley
     url: https://github.com/OWASP/www-chapter-san-fernando-valley

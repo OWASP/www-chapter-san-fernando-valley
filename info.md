@@ -12,6 +12,7 @@ here.
 ### Social
 
 * [LinkedIn](https://www.linkedin.com/company/owasp-sfv)
+* [YouTube](https://www.youtube.com/@OWASPSanFernandoValley)
 
 <!--### Chapter Information
 * Chapter Region

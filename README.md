@@ -22,6 +22,7 @@ live page has the latest.
 
 - Chapter page: <https://owasp.org/www-chapter-san-fernando-valley/>
 - LinkedIn: <https://www.linkedin.com/company/owasp-sfv>
+- YouTube: <https://www.youtube.com/@OWASPSanFernandoValley>
 - Sibling chapter, OWASP Los Angeles: <https://owasp.org/www-chapter-los-angeles/>
 
 ## Why this repo exists
