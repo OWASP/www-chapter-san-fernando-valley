@@ -38,12 +38,12 @@ We work closely with our sister chapter,
 [OWASP Los Angeles](https://owasp.org/www-chapter-los-angeles/). If you are in
 the area, their events are worth following too.
 
-## Where the chapter stands (July 2026)
+## Where the chapter stands
 
-The chapter was dormant for several years. Three of us are restarting it. Here
-is where things stand today.
+The chapter was dormant for several years. We are restarting it. Here is where
+things stand today.
 
-- **Leaders.** All three of us are listed in the sidebar. We will add email
+- **Leaders.** The chapter leaders are listed in the sidebar. We will add email
   links once the OWASP Foundation issues the addresses.
 - **Meeting schedule.** We have not set one yet. We will post the first meeting
   date here as soon as we have it.
@@ -54,7 +54,7 @@ is where things stand today.
 
 ## Getting involved
 
-We need help with three things.
+We need your help with the following.
 
 **Speakers.** Talk about an OWASP project, your own research, a tool you built,
 or an incident and what you learned from it. First-time speakers are welcome,
