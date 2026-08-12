@@ -16,6 +16,7 @@ leaders:
   - name: Alice Ngo
   - name: Stuart Schwartz
   - name: Mikhael Felker
+    email: mikhael.felker@owasp.org
 location:
   country: United States
   country_code: US
