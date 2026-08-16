@@ -45,8 +45,9 @@ things stand today.
 
 - **Leaders.** The chapter leaders are listed in the sidebar. We will add email
   links once the OWASP Foundation issues the addresses.
-- **Meeting schedule.** We have not set one yet. We will post the first meeting
-  date here as soon as we have it.
+- **Meeting schedule.** Generally the fourth Tuesday of the month at 5:30 PM. Days
+  and times can change, so check here before each meeting. We have not set the
+  first date yet.
 - **Venue.** We do not have a venue yet. The Valley is spread out, so we may
   rotate between a few host sites instead of meeting in one place.
 - **Meetup group.** The OWASP Foundation is still setting up our Meetup group.
@@ -66,9 +67,9 @@ seating for a few dozen people, a projector, and working network access. Hosting
 a meeting does not commit you to sponsoring one.
 
 **Sponsors.** Sponsors cover food and logistics. We list our sponsors on this
-page and thank them at the meetings they pay for. If you want a speaking slot as
-part of a sponsorship, ask us. We will say yes to a technical talk our audience
-can use, and no to a sales pitch.
+page and thank them at the meetings they pay for. Talks go through our open call
+for speakers, so sponsoring a meeting does not come with a speaking slot. See the
+[sponsorship prospectus](/assets/OWASP-SFV-sponsorship-prospectus-v1.0-2026.pdf).
 
 Contact any of the chapter leaders in the sidebar.
 
