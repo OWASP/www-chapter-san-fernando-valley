@@ -2,7 +2,7 @@
 
 This repository holds the source files for the OWASP San Fernando Valley chapter page.
 
-**Live page: <https://owasp.org/www-chapter-san-fernando-valley/>**
+**Live page: <https://sfv.owasp.org/>**
 
 If you came here looking for meeting information, read the live page instead.
 
@@ -20,7 +20,7 @@ The chapter is relaunching in 2026 after several dormant years. We have not set 
 dates yet, we do not have a venue, and OWASP is still setting up our Meetup group. The
 live page has the latest.
 
-- Chapter page: <https://owasp.org/www-chapter-san-fernando-valley/>
+- Chapter page: <https://sfv.owasp.org/>
 - LinkedIn: <https://www.linkedin.com/company/owasp-sfv>
 - YouTube: <https://www.youtube.com/@OWASPSanFernandoValley>
 - Sibling chapter, OWASP Los Angeles: <https://owasp.org/www-chapter-los-angeles/>
@@ -29,8 +29,13 @@ live page has the latest.
 
 owasp.org runs on Jekyll. Every OWASP chapter, project, and committee keeps its own
 repository under the OWASP GitHub organization, and GitHub Pages publishes each one to its
-own path on owasp.org. This repo publishes to `/www-chapter-san-fernando-valley/`. There
-are roughly 600 chapter repos.
+own path on owasp.org. There are roughly 600 chapter repos.
+
+This chapter is one of the few with its own subdomain. The `CNAME` file makes GitHub
+Pages serve the site at <https://sfv.owasp.org/>, and the OWASP Foundation holds the
+matching DNS record in the `owasp.org` zone. The old path,
+`https://owasp.org/www-chapter-san-fernando-valley/`, redirects there, so older links
+still work.
 
 Repository names follow a fixed pattern: `www-chapter-<name>` for chapters,
 `www-project-<name>` for projects, `www-committee-<name>` for committees.
@@ -44,6 +49,7 @@ Repository names follow a fixed pattern: `www-chapter-<name>` for chapters,
 | `info.md` | Sidebar content above the leaders. Chapter news and social links |
 | `chapter.owasp.yaml` | Chapter metadata for the [OWASP Nest](https://owasp.org/www-project-nest/) directory. Validate against the [Nest schema](https://github.com/OWASP/nest-schema) before changing it |
 | `_config.yml` | Jekyll config. Points at the shared OWASP theme |
+| `CNAME` | The custom domain, `sfv.owasp.org`. OWASP staff added it and OWASP owns the matching DNS record. Do not edit or delete it |
 | `404.html` | Not-found page |
 | `Gemfile` | Ruby dependencies for building locally |
 | `assets/images/` | Images the page uses |
@@ -70,7 +76,7 @@ commit it.
 
 ## Editing notes
 
-Two things are easy to get wrong.
+Three things are easy to get wrong.
 
 **`leaders.md` and `info.md` must have no YAML front matter.** The theme locates them by
 searching Jekyll's static file list, and Jekyll drops a file from that list as soon as it
@@ -81,6 +87,13 @@ Jekyll reports no error.
 repos carry the same text. Leave the wording alone so ours matches the rest of OWASP. Fix
 plain errors though. Two are already fixed here: the outdated "Open Web" expansion of the
 OWASP name, and a broken phrase that read "we also encourage you to be become a member".
+
+**Links to files in this repo must start with `/`, and that works only because of the
+`CNAME` file.** The page writes the banner as `/assets/images/owasp-sfv-banner.jpg` and
+the prospectus as `/assets/OWASP-SFV-sponsorship-prospectus-v1.0-2026.pdf`. Those resolve
+against the site root, which is `sfv.owasp.org` only while `CNAME` exists. Remove that
+file and the root becomes `owasp.org`, where neither path exists. Every such link breaks
+at once, and Jekyll reports no error.
 
 ## Contributing
 
