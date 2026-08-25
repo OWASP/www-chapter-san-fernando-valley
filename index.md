@@ -43,8 +43,7 @@ the area, their events are worth following too.
 The chapter was dormant for several years. We are restarting it. Here is where
 things stand today.
 
-- **Leaders.** The chapter leaders are listed in the sidebar. We will add email
-  links once the OWASP Foundation issues the addresses.
+- **Leaders.** The chapter leaders are listed in the sidebar.
 - **Meeting schedule.** Generally the fourth Tuesday of the month at 5:30 PM. Days
   and times can change, so check here before each meeting. We have not set the
   first date yet.
