@@ -14,7 +14,9 @@ leaders:
   - name: Edward Bonver
     email: edward.bonver@owasp.org
   - name: Alice Ngo
+    email: alice.ngo@owasp.org
   - name: Stuart Schwartz
+    email: stuart.schwartz@owasp.org
   - name: Mikhael Felker
     email: mikhael.felker@owasp.org
 location:
