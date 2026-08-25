@@ -76,24 +76,16 @@ commit it.
 
 ## Editing notes
 
-Three things are easy to get wrong.
-
-**`leaders.md` and `info.md` must have no YAML front matter.** The theme locates them by
-searching Jekyll's static file list, and Jekyll drops a file from that list as soon as it
-has front matter. Add a `---` block to either file and its whole sidebar section vanishes.
-Jekyll reports no error.
+**`leaders.md` and `info.md` must have no YAML front matter.** The theme finds them in
+Jekyll's static file list, and a `---` block drops a file from that list, taking its whole
+sidebar section with it. Jekyll reports no error.
 
 **The Participation section of `index.md` is shared boilerplate.** Hundreds of chapter
-repos carry the same text. Leave the wording alone so ours matches the rest of OWASP. Fix
-plain errors though. Two are already fixed here: the outdated "Open Web" expansion of the
-OWASP name, and a broken phrase that read "we also encourage you to be become a member".
+repos carry the same text. Leave the wording alone so ours matches the rest of OWASP.
 
-**Links to files in this repo must start with `/`, and that works only because of the
-`CNAME` file.** The page writes the banner as `/assets/images/owasp-sfv-banner.jpg` and
-the prospectus as `/assets/OWASP-SFV-sponsorship-prospectus-v1.0-2026.pdf`. Those resolve
-against the site root, which is `sfv.owasp.org` only while `CNAME` exists. Remove that
-file and the root becomes `owasp.org`, where neither path exists. Every such link breaks
-at once, and Jekyll reports no error.
+**Links to files in this repo start with `/`, which depends on the `CNAME` file.** The site
+root is `sfv.owasp.org` only while that file exists. Delete it and every such link breaks
+at once, again with no error from Jekyll.
 
 ## Contributing
 
