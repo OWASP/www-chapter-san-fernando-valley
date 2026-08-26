@@ -19,6 +19,8 @@ leaders:
     email: stuart.schwartz@owasp.org
   - name: Mikhael Felker
     email: mikhael.felker@owasp.org
+  - name: Robert Herstein
+    email: rob.herstein@owasp.org
 location:
   country: United States
   country_code: US
