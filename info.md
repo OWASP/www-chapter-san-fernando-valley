@@ -6,17 +6,18 @@ Registration is now open.
 
 [Conference details](https://owasp.glueup.com/event/owasp-25th-anniversary-virtual-conference-176564/)
 
-Our chapter is starting up again this year. We will post the first meeting date
-here.
+Our chapter is starting up again this year. Our first meeting is Tuesday,
+September 22, 2026, 5:30 PM to 9:00 PM, in Woodland Hills.
+[RSVP](https://lu.ma/64y8mff3)
 
 ### Social
 
 * [LinkedIn](https://www.linkedin.com/company/owasp-sfv)
 * [YouTube](https://www.youtube.com/@OWASPSanFernandoValley)
+* [Events on Luma](https://luma.com/owasp-sfv)
 
 <!--### Chapter Information
 * Chapter Region
 
 ### Social Links
-* [Meetup](#)
 * [Social Link](#)-->

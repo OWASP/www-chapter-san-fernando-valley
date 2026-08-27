@@ -16,13 +16,14 @@ software.
 Meetings are free and anyone can attend. You do not need to be an OWASP member, and you
 do not need a security background.
 
-The chapter is relaunching in 2026 after several dormant years. We have not set meeting
-dates yet, we do not have a venue, and OWASP is still setting up our Meetup group. The
-live page has the latest.
+The chapter is relaunching in 2026 after several dormant years. Our first meeting is
+Tuesday, September 22, 2026, in Woodland Hills. We do not have a permanent venue yet.
+The live page has the latest.
 
 - Chapter page: <https://sfv.owasp.org/>
 - LinkedIn: <https://www.linkedin.com/company/owasp-sfv>
 - YouTube: <https://www.youtube.com/@OWASPSanFernandoValley>
+- Events on Luma: <https://luma.com/owasp-sfv>
 - Sibling chapter, OWASP Los Angeles: <https://owasp.org/www-chapter-los-angeles/>
 
 ## Why this repo exists

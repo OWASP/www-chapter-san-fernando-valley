@@ -32,6 +32,10 @@ community:
   - name: chapter-san-fernando-valley
     platform: slack
     url: https://owasp.slack.com/archives/C0BMJAAPD17
+events:
+  - title: 'OWASP San Fernando Valley: First Chapter Meeting'
+    description: Our first meeting since the chapter restarted. An open conversation about what future meetings should cover.
+    url: https://lu.ma/64y8mff3
 social_media:
   - platform: linkedin
     url: https://www.linkedin.com/company/owasp-sfv

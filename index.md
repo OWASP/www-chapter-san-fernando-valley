@@ -10,8 +10,6 @@ state: California
 country: USA
 postal-code: 91364
 
-meetup-group: OWASP-San-Fernando-Valley-Chapter
-
 ---
 
 ![The San Fernando Valley street grid lit at night, seen from the southern hills, with the OWASP San Fernando Valley chapter name](/assets/images/owasp-sfv-banner.jpg)
@@ -38,6 +36,22 @@ We work closely with our sibling chapter,
 [OWASP Los Angeles](https://owasp.org/www-chapter-los-angeles/). If you are in
 the area, their events are worth following too.
 
+## Next meeting
+
+**Tuesday, September 22, 2026, 5:30 PM to 9:00 PM. Woodland Hills.**
+
+Our first meeting since the chapter restarted. Expect an open conversation.
+There is no speaker slot this time. Come and meet the chapter leaders, tell us
+what you work on, and help us decide what future meetings should cover.
+
+Free, and open to everyone. You do not need to be an OWASP member and you do
+not need a security background.
+
+[RSVP on Luma](https://lu.ma/64y8mff3)
+
+Space is limited. We are still confirming the exact address and will send it to
+everyone registered as soon as we have it.
+
 ## Where the chapter stands
 
 The chapter was dormant for several years. We are restarting it. Here is where
@@ -45,12 +59,14 @@ things stand today.
 
 - **Leaders.** The chapter leaders are listed in the sidebar.
 - **Meeting schedule.** Generally the fourth Tuesday of the month at 5:30 PM. Days
-  and times can change, so check here before each meeting. We have not set the
-  first date yet.
-- **Venue.** We do not have a venue yet. The Valley is spread out, so we may
-  rotate between a few host sites instead of meeting in one place.
-- **Meetup group.** The OWASP Foundation is still setting up our Meetup group.
-  Until it goes live, check this page for chapter news.
+  and times can change, so check here before each meeting. Our first meeting is
+  Tuesday, September 22, 2026.
+- **Venue.** The September meeting is in Woodland Hills, and we will send the
+  address to everyone registered. We do not have a permanent venue. The Valley
+  is spread out, so we may rotate between a few host sites instead of meeting in
+  one place.
+- **Registration.** RSVP for meetings on our Luma calendar,
+  [luma.com/owasp-sfv](https://luma.com/owasp-sfv).
 
 ## Getting involved
 
