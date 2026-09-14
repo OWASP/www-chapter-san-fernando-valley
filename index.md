@@ -38,19 +38,59 @@ the area, their events are worth following too.
 
 ## Next meeting
 
-**Tuesday, September 22, 2026, 5:30 PM to 9:00 PM. Woodland Hills.**
+**Tuesday, September 22, 2026, 5:30 PM to 9:00 PM.**
 
-Our first meeting since the chapter restarted. Expect an open conversation.
-There is no speaker slot this time. Come and meet the chapter leaders, tell us
-what you work on, and help us decide what future meetings should cover.
+Our first meeting since the chapter restarted. Come and meet the chapter
+leaders, tell us what you work on, and help us decide what future meetings
+should cover.
 
-Free, and open to everyone. You do not need to be an OWASP member and you do
-not need a security background.
+**Featured talk: Shifting from the Monster GRC to the Introspective GRC**
 
-[RSVP on Luma](https://lu.ma/64y8mff3)
+![Karina Klever](/assets/images/karina-klever.jpg)
 
-Space is limited. We are still confirming the exact address and will send it to
-everyone registered as soon as we have it.
+Our speaker is **Karina Klever**, founder of Klever Compliance.
+
+Our GRC pendulum has swung to a maddening and excess extreme. Too many tools,
+both in IT Operations and GRC, promising "automagic" results. The many published
+company documents that should contain measurable controls correlating to
+regulatory and framework requirements are scattered under the rugs and hidden in
+corners, completely dismissed. We are hoarding too much data, it's unstructured,
+unmanaged, and not governed by basic classification principles. Why are we
+encrypting publicly available data instead of purging it?!
+
+Unfortunately, we've tossed data discipline, data mapping, data purposefulness
+and data grooming away. The vendors who handle our data use liability invisible
+cloaks for convenient lack of accountability, especially when they pass our data
+downstream. Despite us creating all of this overwhelming noise, we are losing
+data at a ridiculously drastic rate.
+
+Let's stop continuing to do the same excessive things that got us in this mess
+and expecting different results. This session will bring us all back to some of
+the best practice governance basics and provide the attendee with hints on how
+to tame the monster. We'll identify some recommendations on how to optimize your
+GRC program to actually work for your company, not bog it down.
+
+**About the speaker**
+
+Karina Klever has spent more than 35 years in technology, starting in 1989 as a
+computer operator. After programming and decades of project/program managing,
+compliance took a larger focus starting in the early 2000s. Karina would go on
+to establish GRC Centers of Excellence for Fortune 500 companies. Successes span
+industries, maturities, regulations, and frameworks. After years of witnessing
+compliance being implemented as nothing more than a checkbox exercise, Karina
+opened her own boutique company to guide midsized companies into establishing
+governance programs that are appropriate for their particular industry, level
+of maturity, size, risk posture, and goals. Checkbox compliance leaves gaping
+security holes!
+
+Free, and open to everyone. Food and drinks are provided. You do not need to be
+an OWASP member and you do not need a security background.
+
+[RSVP on Luma](https://luma.com/64y8mff3)
+
+Space is limited. We are finalizing the venue, most likely at California State
+University, Northridge. We will post the exact location on the
+[Luma event](https://luma.com/64y8mff3) as soon as it is set.
 
 ## Where the chapter stands
 
@@ -61,10 +101,11 @@ things stand today.
 - **Meeting schedule.** Generally the fourth Tuesday of the month at 5:30 PM. Days
   and times can change, so check here before each meeting. Our first meeting is
   Tuesday, September 22, 2026.
-- **Venue.** The September meeting is in Woodland Hills, and we will send the
-  address to everyone registered. We do not have a permanent venue. The Valley
-  is spread out, so we may rotate between a few host sites instead of meeting in
-  one place.
+- **Venue.** The September venue is being finalized, most likely at California
+  State University, Northridge. The exact location will be posted on the
+  [Luma event](https://luma.com/64y8mff3) as soon as it is set. We do not have a
+  permanent venue. The Valley is spread out, so we may rotate between a few host
+  sites instead of meeting in one place.
 - **Registration.** RSVP for meetings on our Luma calendar,
   [luma.com/owasp-sfv](https://luma.com/owasp-sfv).
 
