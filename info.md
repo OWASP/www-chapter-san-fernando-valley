@@ -7,8 +7,8 @@ Registration is now open.
 [Conference details](https://owasp.glueup.com/event/owasp-25th-anniversary-virtual-conference-176564/)
 
 Our chapter is starting up again this year. Our first meeting is Tuesday,
-September 22, 2026, 5:30 PM to 9:00 PM, in Woodland Hills.
-[RSVP](https://lu.ma/64y8mff3)
+September 22, 2026, 5:30 PM to 9:00 PM.
+[RSVP](https://luma.com/64y8mff3)
 
 ### Social
 
