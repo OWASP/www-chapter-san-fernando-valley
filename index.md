@@ -46,7 +46,7 @@ should cover.
 
 **Featured talk: Shifting from the Monster GRC to the Introspective GRC**
 
-![Karina Klever](/assets/images/karina-klever.jpg)
+![Karina Klever](/assets/images/karina-klever.jpg){: width="160" style="display: block; margin: 0 auto;" }
 
 Our speaker is **Karina Klever**, founder of Klever Compliance.
 
