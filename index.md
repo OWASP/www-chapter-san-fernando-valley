@@ -38,7 +38,7 @@ the area, their events are worth following too.
 
 ## Next meeting
 
-**Tuesday, September 22, 2026, 5:30 PM to 9:00 PM.**
+**Tuesday, September 22, 2026, 5:30 PM to 9:00 PM. Woodland Hills.**
 
 Our first meeting since the chapter restarted. Come and meet the chapter
 leaders, tell us what you work on, and help us decide what future meetings
@@ -88,9 +88,8 @@ an OWASP member and you do not need a security background.
 
 [RSVP on Luma](https://luma.com/64y8mff3)
 
-Space is limited. We are finalizing the venue, most likely at California State
-University, Northridge. We will post the exact location on the
-[Luma event](https://luma.com/64y8mff3) as soon as it is set.
+Space is limited. The meeting is in Woodland Hills. We will post the exact
+address on the [Luma event](https://luma.com/64y8mff3) as soon as it is set.
 
 ## Where the chapter stands
 
@@ -101,11 +100,10 @@ things stand today.
 - **Meeting schedule.** Generally the fourth Tuesday of the month at 5:30 PM. Days
   and times can change, so check here before each meeting. Our first meeting is
   Tuesday, September 22, 2026.
-- **Venue.** The September venue is being finalized, most likely at California
-  State University, Northridge. The exact location will be posted on the
-  [Luma event](https://luma.com/64y8mff3) as soon as it is set. We do not have a
-  permanent venue. The Valley is spread out, so we may rotate between a few host
-  sites instead of meeting in one place.
+- **Venue.** The September meeting is in Woodland Hills. The exact address will
+  be posted on the [Luma event](https://luma.com/64y8mff3) as soon as it is set.
+  We do not have a permanent venue. The Valley is spread out, so we may rotate
+  between a few host sites instead of meeting in one place.
 - **Registration.** RSVP for meetings on our Luma calendar,
   [luma.com/owasp-sfv](https://luma.com/owasp-sfv).
 
