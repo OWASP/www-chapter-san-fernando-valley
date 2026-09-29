@@ -51,7 +51,7 @@ Annenberg Community Beach House, 415 Pacific Coast Highway, Santa Monica, CA
 90402. Parking at the Beach House is $15 per day.
 
 **You must register with the OWASP promo code to get in free.** The code is in
-our post on the [OWASP SFV LinkedIn page](https://www.linkedin.com/company/owasp-sfv).
+our post on the [OWASP SFV LinkedIn page](https://www.linkedin.com/posts/issa-la-summit-2026-home-page-issa-summit-share-7510335737175785472-LfFX/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABIHecB_bZYqxH17DqX7pc8KzV9MIE8eeY).
 
 [Summit details and registration](https://summit.issala.org/issa-la-summit-2026-home-page/)
 
