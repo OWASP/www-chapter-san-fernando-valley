@@ -16,7 +16,7 @@ software.
 Meetings are free and anyone can attend. You do not need to be an OWASP member, and you
 do not need a security background.
 
-The chapter is relaunching in 2026 after several dormant years. Our first meeting is
+The chapter is relaunching in 2026 after several dormant years. Our first meeting was
 Tuesday, September 22, 2026, in Woodland Hills. We do not have a permanent venue yet.
 The live page has the latest.
 
