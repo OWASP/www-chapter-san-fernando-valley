@@ -1,14 +1,12 @@
-### OWASP turns 25
+### Upcoming
 
-OWASP is celebrating its 25th anniversary in 2026. The Foundation is hosting a
-free virtual conference on Tuesday, September 22, 2026, 9:00 AM to 5:00 PM CDT.
-Registration is now open.
+**October 14:** no chapter meeting this month. We are supporting the
+ISSA-LA Summit in Santa Monica. OWASP members attend for free, but you must
+register with the OWASP promo code from our
+[LinkedIn page](https://www.linkedin.com/company/owasp-sfv).
+[Summit details](https://summit.issala.org/issa-la-summit-2026-home-page/)
 
-[Conference details](https://owasp.glueup.com/event/owasp-25th-anniversary-virtual-conference-176564/)
-
-Our chapter is starting up again this year. Our first meeting is Tuesday,
-September 22, 2026, 5:30 PM to 9:00 PM.
-[RSVP](https://luma.com/64y8mff3)
+**November 24:** our next chapter meeting. Details coming soon.
 
 ### Social
 
