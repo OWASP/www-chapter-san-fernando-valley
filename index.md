@@ -89,6 +89,8 @@ We need your help with the following.
 or an incident and what you learned from it. First-time speakers are welcome,
 and we will help you plan and rehearse.
 
+**[Submit a talk &rarr;](https://docs.google.com/forms/d/e/1FAIpQLSdPi3PBRVupvkV_v6zKUW7Mssz_i5yozj6cAVbCGxj316viJQ/viewform){:target="_blank"}**
+
 **Venue hosts.** If your organization sits in or near the Valley and can lend a
 room on a weekday evening, that helps us more than anything else here. We need
 seating for a few dozen people, a projector, and working network access. Hosting
