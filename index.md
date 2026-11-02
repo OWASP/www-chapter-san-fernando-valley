@@ -38,29 +38,20 @@ the area, their events are worth following too.
 
 ## Next meeting
 
-**October: no chapter meeting. Join us at the ISSA-LA Summit instead.**
-
-In October we are supporting our friends at ISSA Los Angeles rather than
-holding a separate chapter meeting. OWASP members attend the ISSA-LA Summit
-for free.
-
-**ISSA-LA Summit 2026. Wednesday, October 14, 2026, 9:00 AM to 5:00 PM.**
-Registration opens at 8:30 AM.
-
-Annenberg Community Beach House, 415 Pacific Coast Highway, Santa Monica, CA
-90402. Parking at the Beach House is $15 per day.
-
-**You must register with the OWASP promo code to get in free.** The code is in
-our post on the [OWASP SFV LinkedIn page](https://www.linkedin.com/posts/issa-la-summit-2026-home-page-issa-summit-share-7510335737175785472-LfFX/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABIHecB_bZYqxH17DqX7pc8KzV9MIE8eeY).
-
-[Summit details and registration](https://summit.issala.org/issa-la-summit-2026-home-page/)
-
-**November: our next chapter meeting.** Tuesday, November 24, 2026. The
-speaker, venue, and RSVP link are coming soon. Watch this page and our
+**December: our next chapter meeting.** Tuesday, December 8, 2026. The
+meeting will be in the San Fernando Valley. We will share the venue, speaker,
+and RSVP link once they are ready. Watch this page and our
 [Luma calendar](https://luma.com/owasp-sfv).
+
+**Joint meeting with other LA chapters.** We are also planning a joint security
+meeting with other Los Angeles area chapters. Details coming soon.
 
 ## Past meetings
 
+- **Wednesday, October 14, 2026, Santa Monica.** Instead of a chapter meeting,
+  we supported our friends at ISSA Los Angeles. OWASP members attended the
+  [ISSA-LA Summit 2026](https://summit.issala.org/issa-la-summit-2026-home-page/)
+  for free.
 - **Tuesday, September 22, 2026, Woodland Hills.** Our first meeting since the
   chapter restarted. Karina Klever, founder of Klever Compliance, spoke on
   "Shifting from the Monster GRC to the Introspective GRC."
@@ -73,8 +64,8 @@ things stand today.
 - **Leaders.** The chapter leaders are listed in the sidebar.
 - **Meeting schedule.** Generally the fourth Tuesday of the month at 5:30 PM. Days
   and times can change, so check here before each meeting. Our first meeting was
-  Tuesday, September 22, 2026. In October we are supporting the ISSA-LA Summit
-  instead of meeting on our own. Our next meeting is Tuesday, November 24, 2026.
+  Tuesday, September 22, 2026. In October we supported the ISSA-LA Summit
+  instead of meeting on our own. Our next meeting is Tuesday, December 8, 2026.
 - **Venue.** The September meeting was in Woodland Hills. We do not have a
   permanent venue. The Valley is spread out, so we may rotate between a few host
   sites instead of meeting in one place.
