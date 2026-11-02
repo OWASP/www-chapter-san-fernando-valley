@@ -1,12 +1,10 @@
 ### Upcoming
 
-**October 14:** no chapter meeting this month. We are supporting the
-ISSA-LA Summit in Santa Monica. OWASP members attend for free, but you must
-register with the OWASP promo code from our
-[LinkedIn page](https://www.linkedin.com/company/owasp-sfv).
-[Summit details](https://summit.issala.org/issa-la-summit-2026-home-page/)
+**December 8:** our next chapter meeting, in the San Fernando Valley. Venue
+and details coming soon.
 
-**November 24:** our next chapter meeting. Details coming soon.
+**Joint LA chapters meeting:** a joint security meeting with other Los Angeles
+area chapters. Details coming soon.
 
 ### Social
 
