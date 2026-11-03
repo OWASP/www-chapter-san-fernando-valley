@@ -38,9 +38,35 @@ the area, their events are worth following too.
 
 ## Next meeting
 
-**December: our next chapter meeting.** Tuesday, December 8, 2026. The
-meeting will be in the San Fernando Valley. We will share the venue, speaker,
-and RSVP link once they are ready. Watch this page and our
+**Tuesday, December 8, 2026.**
+
+**Featured talk: Why Great Security Professionals Get Overlooked (And How to Fix It)**
+
+Our speaker is **Clay Sierra**, founder of Procisive, a tech recruiting firm.
+
+In today's market, technical expertise alone is not enough to create career
+opportunities. Recruiters and hiring managers often make decisions based on a
+candidate's ability to clearly communicate impact, leadership, and business
+value through their profile, resume, and professional presence.
+
+In this session, Clay Sierra, Founder of Procisive, shares insights from
+recruiting cybersecurity leaders across security engineering, infrastructure,
+product security, GRC, and executive security leadership roles. Attendees will
+learn how recruiters search for talent, what causes strong candidates to be
+overlooked, and practical ways to position themselves for more relevant
+opportunities and interviews.
+
+**What you will take away**
+
+- How recruiters search for cybersecurity talent.
+- How to improve the visibility of your LinkedIn profile and resume.
+- How to communicate impact, not just responsibilities.
+
+Free, and open to everyone. You do not need to be an OWASP member and you do
+not need a security background.
+
+The meeting will be in the San Fernando Valley. We will share the venue and
+RSVP link once they are ready. Watch this page and our
 [Luma calendar](https://luma.com/owasp-sfv).
 
 **Joint meeting with other LA chapters.** We are also planning a joint security
