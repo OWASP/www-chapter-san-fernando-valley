@@ -42,8 +42,6 @@ the area, their events are worth following too.
 
 **Featured talk: Why Great Security Professionals Get Overlooked (And How to Fix It)**
 
-![Clay Sierra](/assets/images/clay-sierra.jpg){: width="160" style="display: block; margin: 0 auto;" }
-
 Our speaker is **Clay Sierra**, founder of Procisive, a tech recruiting firm.
 
 In today's market, technical expertise alone is not enough to create career
@@ -63,14 +61,6 @@ opportunities and interviews.
 - How recruiters search for cybersecurity talent.
 - How to improve the visibility of your LinkedIn profile and resume.
 - How to communicate impact, not just responsibilities.
-
-**About the speaker**
-
-Clay Sierra is the founder of Procisive, a Southern California based recruiting
-firm specializing in technology and cybersecurity talent. He works closely with
-security professionals and hiring teams and brings a firsthand view of what
-happens behind the scenes during the hiring process. He'll share practical
-insights to help cybersecurity professionals better navigate their job search.
 
 Free, and open to everyone. You do not need to be an OWASP member and you do
 not need a security background.
